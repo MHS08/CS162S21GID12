@@ -15,7 +15,8 @@ public class Main {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("We made Repositry for Final Project");
+        System.out.println("We made Repositry for Final Project seriously"
+                + "");
     }
     
 }
